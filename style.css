@@ -68,6 +68,10 @@ nav ul {
     gap: 15px;
 }
 
+nav li {
+   padding: 5px;
+}
+
 nav a {
     color: #fff;
     text-decoration: none;
